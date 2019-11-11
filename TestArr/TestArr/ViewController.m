@@ -17,9 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"你好你好你好");
-//    NSArray *arr = @[@"1",@"3"];
+    NSArray *arr = @[@"1",@"3"];
 //    NSArray *testAtt = [[NSArray alloc] initWithObjects:<#(nonnull id), ...#>, nil]
-//    NSLog(@"arr --- %@",arr);
+    NSLog(@"arr --- %@",arr);
 }
 
 
